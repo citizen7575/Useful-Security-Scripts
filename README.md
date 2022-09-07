@@ -1,1 +1,1 @@
-# Useful-Security-Scripts
+# useful-security-scripts
